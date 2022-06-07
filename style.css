@@ -267,7 +267,7 @@ header .navbar ul li a:hover{
 .education .box-container .box p{
     font-size: 1.4rem;
     color:#eee;
-    padding: 1rem;
+    padding:1rem 0;
 }
 
 .education .box-container .box i{
